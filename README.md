@@ -430,5 +430,5 @@ If such a person is found then it not a new user and it will return that user. I
 ### References
  
  * [BankID Relying Party Guidelines v2.10](https://www.bankid.com/assets/bankid/rp/bankid-relying-party-guidelines-v2.10.pdf) for technical details
- * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
+ * [markdown-it](https://jbt.github.io/markdown-editor/) for Markdown Editing
  * [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html) for Markdown learning
